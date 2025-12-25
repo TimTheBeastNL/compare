@@ -3,8 +3,6 @@
         "label": "GoMoof",
         "icon": "https://raw.githubusercontent.com/GoMoof/compare/refs/heads/main/icons/gomoof.png",
         "features": [
-            "price",
-            "languages",
             "autoSpeedLimit",
             "changeSpeedLimit",
             "assistLevelControl",
@@ -68,9 +66,7 @@
         "label": "VanMoof",
         "icon": "https://raw.githubusercontent.com/GoMoof/compare/refs/heads/main/icons/vanmoof.png",
         "features": [
-            "price",
             "officialProduct",
-            "languages",
             "assistLevelControl",
             "rideTracking",
             "repairMode",
@@ -98,8 +94,6 @@
         "label": "MoofMate",
         "icon": "https://raw.githubusercontent.com/GoMoof/compare/refs/heads/main/icons/moofmate.png",
         "features": [
-            "price",
-            "languages",
             "changeSpeedLimit",
             "assistLevelControl",
             "rideTracking",
@@ -143,8 +137,6 @@
         "label": "Other Apps",
         "icon": "https://raw.githubusercontent.com/GoMoof/compare/refs/heads/main/icons/others.png",
         "features": [
-            "price",
-            "languages",
             "changeSpeedLimit",
             "assistLevelControl",
             "rideTracking",

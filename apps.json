@@ -3,8 +3,6 @@
         "label": "GoMoof",
         "icon": "https://raw.githubusercontent.com/GoMoof/compare/refs/heads/main/icons/gomoof.png",
         "features": [
-            "price",
-            "languages",
             "autoSpeedLimit",
             "changeSpeedLimit",
             "assistLevelControl",
@@ -51,7 +49,6 @@
             "internalBatteryLevel",
             "batteryHealth",
             "partlyLightControl",
-            "lightHorn",
             "assistLevelWhileRiding",
             "assistLevelFive",
             "assistFiveWithFirmware",
@@ -69,9 +66,7 @@
         "label": "VanMoof",
         "icon": "https://raw.githubusercontent.com/GoMoof/compare/refs/heads/main/icons/vanmoof.png",
         "features": [
-            "price",
             "officialProduct",
-            "languages",
             "assistLevelControl",
             "rideTracking",
             "repairMode",
@@ -99,8 +94,6 @@
         "label": "MoofMate",
         "icon": "https://raw.githubusercontent.com/GoMoof/compare/refs/heads/main/icons/moofmate.png",
         "features": [
-            "price",
-            "languages",
             "changeSpeedLimit",
             "assistLevelControl",
             "quickSettings",
@@ -153,20 +146,12 @@
         "label": "Other Apps",
         "icon": "https://raw.githubusercontent.com/GoMoof/compare/refs/heads/main/icons/others.png",
         "features": [
-            "price",
-            "languages",
             "changeSpeedLimit",
             "assistLevelControl",
             "rideTracking",
             "appleHealthIntegration",
-            "signalScanner",
             "localBatteryNotifications",
-            "bikeRename",
-            "rainbowMode",
-            "disabledBellSound",
-            "disabledLightMode",
             "batteryHealth",
-            "partlyLightControl",
             "assistLevelWhileRiding",
             "assistLevelFive",
             "assistFiveWithFirmware",
@@ -175,8 +160,7 @@
             "shippingMode",
             "powerBankSupport",
             "uploadSound",
-            "soundboard",
-            "muteSounds"
+            "soundboard"
         ]
     }
 }

@@ -51,7 +51,6 @@
             "internalBatteryLevel",
             "batteryHealth",
             "partlyLightControl",
-            "lightHorn",
             "assistLevelWhileRiding",
             "assistLevelFive",
             "assistFiveWithFirmware",
@@ -150,14 +149,8 @@
             "assistLevelControl",
             "rideTracking",
             "appleHealthIntegration",
-            "signalScanner",
             "localBatteryNotifications",
-            "bikeRename",
-            "rainbowMode",
-            "disabledBellSound",
-            "disabledLightMode",
             "batteryHealth",
-            "partlyLightControl",
             "assistLevelWhileRiding",
             "assistLevelFive",
             "assistFiveWithFirmware",
@@ -166,8 +159,7 @@
             "shippingMode",
             "powerBankSupport",
             "uploadSound",
-            "soundboard",
-            "muteSounds"
+            "soundboard"
         ]
     }
 }

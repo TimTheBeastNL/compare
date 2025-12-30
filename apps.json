@@ -3,10 +3,12 @@
         "label": "GoMoof",
         "icon": "https://raw.githubusercontent.com/GoMoof/compare/refs/heads/main/icons/gomoof.png",
         "features": [
+            "nativeDesign",
             "autoSpeedLimit",
             "changeSpeedLimit",
             "assistLevelControl",
             "quickSettings",
+            "customizableQuickSettings",
             "multiConnection",
             "multiAccount",
             "rideTracking",
@@ -60,7 +62,8 @@
             "powerBankSupport",
             "uploadSound",
             "soundboard",
-            "muteSounds"
+            "muteSounds",
+            "customButtonActions"
         ]
     },
     "vanmoof": {
@@ -68,6 +71,7 @@
         "icon": "https://raw.githubusercontent.com/GoMoof/compare/refs/heads/main/icons/vanmoof.png",
         "features": [
             "officialProduct",
+            "nativeDesign",
             "assistLevelControl",
             "rideTracking",
             "repairMode",

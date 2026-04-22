@@ -123,6 +123,7 @@
       "features.autoSpeedLimit",
       "features.rideTracking",
       "features.rideTracking",
+      "features.routeTracking",
       "features.appleHealthIntegration",
       "features.maintenanceServiceSystem",
       "features.autoUnlock",

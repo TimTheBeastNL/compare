@@ -142,6 +142,9 @@
       "features.repairMode",
       "features.assistLevelControl",
 
+      "so6.internalBatteryLevel",
+      "so6.batteryTemperature",
+      "so6.batteryCapacity",
       "so6.standaloneConnection",
       "so6.lightmodeCircle",
 

@@ -123,6 +123,7 @@
       "features.autoSpeedLimit",
       "features.rideTracking",
       "features.rideTracking",
+      "features.routeTracking",
       "features.appleHealthIntegration",
       "features.maintenanceServiceSystem",
       "features.autoUnlock",
@@ -141,6 +142,10 @@
       "features.repairMode",
       "features.assistLevelControl",
 
+      "so6.internalBatteryLevel",
+      "so6.batteryTemperature",
+      "so6.batteryCapacity",
+      "so6.batteryCurrent",
       "so6.standaloneConnection",
       "so6.lightmodeCircle",
 
@@ -153,6 +158,7 @@
       "sa5.customButtonActions",
       "sa5.manualShifting",
       "sa5.calibrateGears",
+      "sa5.connectionFlow",
       "sa5.standaloneConnection",
       "sa5.disabledLightMode",
       "sa5.disabledBellSound",
